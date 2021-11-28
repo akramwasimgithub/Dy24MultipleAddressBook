@@ -1,0 +1,14 @@
+C:\Users\63not\source\repos\Day24AddressBookSystem\Day24AddressBookSystem\bin\Debug\netcoreapp3.1\Day24AddressBookSystem.exe
+C:\Users\63not\source\repos\Day24AddressBookSystem\Day24AddressBookSystem\bin\Debug\netcoreapp3.1\Day24AddressBookSystem.deps.json
+C:\Users\63not\source\repos\Day24AddressBookSystem\Day24AddressBookSystem\bin\Debug\netcoreapp3.1\Day24AddressBookSystem.runtimeconfig.json
+C:\Users\63not\source\repos\Day24AddressBookSystem\Day24AddressBookSystem\bin\Debug\netcoreapp3.1\Day24AddressBookSystem.runtimeconfig.dev.json
+C:\Users\63not\source\repos\Day24AddressBookSystem\Day24AddressBookSystem\bin\Debug\netcoreapp3.1\Day24AddressBookSystem.dll
+C:\Users\63not\source\repos\Day24AddressBookSystem\Day24AddressBookSystem\bin\Debug\netcoreapp3.1\Day24AddressBookSystem.pdb
+C:\Users\63not\source\repos\Day24AddressBookSystem\Day24AddressBookSystem\obj\Debug\netcoreapp3.1\Day24AddressBookSystem.csproj.AssemblyReference.cache
+C:\Users\63not\source\repos\Day24AddressBookSystem\Day24AddressBookSystem\obj\Debug\netcoreapp3.1\Day24AddressBookSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63not\source\repos\Day24AddressBookSystem\Day24AddressBookSystem\obj\Debug\netcoreapp3.1\Day24AddressBookSystem.AssemblyInfoInputs.cache
+C:\Users\63not\source\repos\Day24AddressBookSystem\Day24AddressBookSystem\obj\Debug\netcoreapp3.1\Day24AddressBookSystem.AssemblyInfo.cs
+C:\Users\63not\source\repos\Day24AddressBookSystem\Day24AddressBookSystem\obj\Debug\netcoreapp3.1\Day24AddressBookSystem.csproj.CoreCompileInputs.cache
+C:\Users\63not\source\repos\Day24AddressBookSystem\Day24AddressBookSystem\obj\Debug\netcoreapp3.1\Day24AddressBookSystem.dll
+C:\Users\63not\source\repos\Day24AddressBookSystem\Day24AddressBookSystem\obj\Debug\netcoreapp3.1\Day24AddressBookSystem.pdb
+C:\Users\63not\source\repos\Day24AddressBookSystem\Day24AddressBookSystem\obj\Debug\netcoreapp3.1\Day24AddressBookSystem.genruntimeconfig.cache
